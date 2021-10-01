@@ -1,0 +1,27 @@
+# Ignore node_modules
+node_modules
+
+# Compiled
+dist
+
+.editorconfig
+.dockerignore
+.git*
+.huskyrc*
+.lintstagedrc*
+.npmignore
+.eslintcache
+.husky
+.npm
+
+.idea
+
+# dotenv environment variables file
+.env
+.env.*
+
+# Documentation
+docs
+*.md
+
+Dockerfile
